@@ -2,7 +2,7 @@
 
 > Aplicação web em **PHP 8.5** que consulta a API pública **Open Library**, recebe os dados em **JSON**, processa e exibe livros dinamicamente ao usuário.
 
-🎥 **Vídeo de demonstração:** [Assista no YouTube](COLE-AQUI-O-LINK-DO-VIDEO)
+🎥 **Vídeo de demonstração:** [Assista no YouTube](https://youtu.be/wveyqEzhGkE)
 
 ---
 
