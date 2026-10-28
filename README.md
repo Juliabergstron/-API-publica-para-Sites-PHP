@@ -129,7 +129,7 @@ Acesse `/diagnostico.php` para ver o estado do ambiente e da conexão com a API.
 
 ## 👤 Autor
 
-**Seu Nome** — Curso/Turma — Instituição
+**Julia Costa Bergstron** — 2°DS-AMS — ETEC Zona Leste
 
 ## 📄 Licença
 
